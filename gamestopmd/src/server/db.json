@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "john_doe",
+      "email": "john@example.com",
+      "password": "hashed_password_here"
+    },
+    {
+      "id": 2,
+      "username": "jane_doe",
+      "email": "jane@example.com",
+      "password": "hashed_password_here"
+    },
+    {
+      "username": "test1",
+      "password": "test1",
+      "email": "test1@gmail.com",
+      "id": 3
+    },
+    {
+      "username": "AlexMercer",
+      "password": "123456",
+      "email": "alexmercer@gmail.com",
+      "id": 4
+    },
+    {
+      "username": "test1",
+      "password": "test1",
+      "id": 5
+    },
+    {
+      "username": "test22",
+      "password": "test22",
+      "id": 6
+    },
+    {
+      "username": "test43",
+      "password": "563453",
+      "id": 7
+    },
+    {
+      "username": "test435646",
+      "password": "563453",
+      "id": 8
+    },
+    {
+      "username": "test435646",
+      "password": "563453",
+      "id": 9
+    },
+    {
+      "username": "test435646",
+      "password": "563453",
+      "id": 10
+    },
+    {
+      "username": "test1",
+      "password": "test1",
+      "id": 11
+    },
+    {
+      "username": "test65454645",
+      "password": "12345445",
+      "email": "alejandro@gfsdf.ru",
+      "id": 12
+    },
+    {
+      "username": "test69",
+      "password": "123456",
+      "email": "test69@gmail.com",
+      "id": 13
+    }
+  ]
+}
